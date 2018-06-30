@@ -1,3 +1,11 @@
+/*
+* author: Jiawei Zhou
+* email: zjwking258@163.com
+* headfile : c++ version of algorithm minresQLP
+* time: 2018/6/26
+*   
+*/
+
 #include "zjw_minresQLP.h"
 
 VectorXd MinresQLP::minresxxxA(MatrixXd & A, VectorXd & x)
